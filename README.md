@@ -1,2 +1,2 @@
 # space-walk
-this project based on html and CSS.
+this is space-walk project based on html and CSS.
